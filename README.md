@@ -1,4 +1,4 @@
-<h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="">Cristian J. Ambrosi</a></b></samp></h3>
+<h3 align="center"><samp>Hello! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="">Cristian J. Ambrosi</a></b></samp></h3>
 <p align="center"><br>
   <samp>
     「 Bachelor's degree in Computer Science 」<br>
