@@ -11,15 +11,10 @@
     From <a href="https://github.com/cjambrosi">cjambrosi</a>
   </p>
 </samp>
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 30 January 2026 - To: 30 January 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+<br>
+<div align="center">
+<img src="./.github/profile/top-langs.svg" width="300" height="215" alt="Cristian's Top Languages" />
+<!-- ![Cristian's Top Languages](./.github/profile/top-langs.svg) -->
+<!-- ![Cristian's GitHub Stats](./.github/profile/stats.svg) -->
+<!-- ![Cristian's All Ranks](./.github/profile/trophy.svg) -->
+</div>
